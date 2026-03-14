@@ -1,0 +1,60 @@
+# Prompts Used to Build the Football Data Engineering Project
+
+Below are the prompts used for project
+---
+
+ 1) Design a data engineering project using football match datasets that includes an ETL pipeline, data warehouse, and dashboard.
+
+---
+
+2) Explain how to build a star schema for a football analytics data warehouse using player appearance data.
+
+---
+
+3) Write Python code to extract CSV files from MinIO object storage using the MinIO Python SDK.
+
+---
+
+4) Help me create a Python ETL pipeline with the following stages: extract, transform, quality checks, and load.
+
+---
+
+5) Show how to clean and transform football appearance data using Pandas, including handling missing values and calculating performance metrics.
+
+---
+
+6) Create feature engineering logic to calculate goals per 90 minutes, assists per 90 minutes, and goal contribution per 90 minutes.
+
+---
+
+7) How can I merge two datasets in Pandas where one contains player appearances and the other contains club information?
+
+---
+8) Write SQL statements to create a star schema with a fact table and dimension tables for football match analytics.
+
+---
+9) How can I bulk load large datasets from Pandas into PostgreSQL using the COPY command?
+
+---
+
+ 10) Implement incremental loading in a data pipeline by checking the maximum appearance_id in the fact table.
+
+---
+
+11) Create data quality checks for an ETL pipeline to validate player IDs, club IDs, and match statistics.
+
+---
+
+12) Help debug an ETL pipeline error where a PostgreSQL COPY operation fails due to incorrect data types.
+
+---
+
+13) Build a Streamlit dashboard that connects to PostgreSQL and displays club performance metrics.
+
+---
+
+ 14) Create interactive charts in Streamlit to visualize goals, assists, minutes played, and player contributions.
+
+---
+
+15) Write a README file explaining the architecture, setup, and usage of a football analytics data pipeline project.

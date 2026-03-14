@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Data files
+*.csv
+
+# Logs
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+docker/postgres-data/
+docker/minio-data/
